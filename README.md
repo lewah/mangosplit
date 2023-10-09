@@ -1,4 +1,2 @@
-# mangosplit
-website 
+## NETFLIX MOVIE DATA ANALYSIS PROJECT
 
-these are ideas gathered arround to create an artistic website 
