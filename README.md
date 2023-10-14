@@ -12,6 +12,7 @@ Create a conda environment:
 ### 1.Data collection
 
 ### 2.Data cleaning and processing
+1. Remove the NaN values from the dataset
 Making sure there arent any NULL value in our data to make the data consistent.
 culumns with null value include :
 - rating
@@ -20,6 +21,11 @@ culumns with null value include :
 - cast
 - country
 - duration
+
+2. Deleting redundant columns.
+3. Dropping duplicates.
+4. Cleaning individual columns.
+
 #### Data wrangling 
 
 #### Data Transformation
