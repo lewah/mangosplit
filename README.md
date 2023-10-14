@@ -7,6 +7,9 @@ Create a conda environment:
 
 ### 0. Ask QUestions
 1. which movie has the highest country viewing/releases
+2. How do the variables correlate?
+3. Which countries have contributed most movies in recent years?
+4. Which actors are most likely to work together?
 
 
 ### 1.Data collection
