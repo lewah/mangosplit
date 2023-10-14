@@ -2,7 +2,9 @@
 Create a conda environment:
  conda create --name netflix
  conda activate netflix 
- conda create -n env-01 python=3.9 scipy=0.15.0 numpy
+
+ conda create -n env-01 python=3.9 scipy=0.15.0 numpy exmaple   
+
 ### 1.Data collection
 
 ### 2.Data cleaning and processing
