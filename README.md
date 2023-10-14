@@ -6,6 +6,7 @@ Create a conda environment:
  conda create -n env-01 python=3.9 scipy=0.15.0 numpy exmaple   
 
 ### 0. Ask QUestions
+1. which movie has the highest country viewing/releases
 
 
 ### 1.Data collection
