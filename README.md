@@ -4,6 +4,7 @@ Create a conda environment:
  conda activate netflix 
 
  conda create -n env-01 python=3.9 scipy=0.15.0 numpy exmaple   
+ pip install --upgrade seaborn matplotlib
 
 ### 0. Ask QUestions
 1. which movie has the highest country viewing/releases
