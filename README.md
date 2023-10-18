@@ -17,7 +17,15 @@ Create a conda environment:
 8. what is the distribution of Netflix’s content by origin, or country
 9. which countries have the largest quantity of released content , group this by content type
 10. visualise the type of content produced by countries 
-
+11. explore the “Age” of content on Netflix, which means the gap between when movies/shows are released and when they are added.
+12. see how 11 varies per country
+13. Find out more on the movie and tv rating , visualise TV vs Movies and group them based on the targeted audience eg : kids, young adult , teenagers, adults 
+14. Visualise 13 based on countries 
+15. Movie and TV Show Genres, quantity of content released (in the genre)
+16. group 15 based on type(content)
+17. Movie and TV Show Duration
+18. Netflix Titles
+19. Netflix Description
 
 ### 1.Data collection
 
