@@ -1,0 +1,360 @@
+Country,Count
+United States,2818
+"United Kingdom, United States",75
+"United States, Canada",73
+"United States, United Kingdom",47
+"Canada, United States",45
+"United States, Germany",17
+"United States, France",16
+"United States, Japan",16
+"United States, Mexico",14
+"Mexico, United States",13
+"Australia, United States",13
+"Germany, United States",13
+"Japan, United States",12
+"United States, Australia",11
+"France, United States",10
+"India, United States",10
+"United States, India",9
+"United States, China",8
+"United Kingdom, Canada, United States",8
+"United States, France, Japan",7
+"South Korea, United States",6
+"United States, Czech Republic",5
+"United States, Italy",5
+"United States, New Zealand",5
+"Israel, United States",5
+"United Kingdom, France, United States",4
+"Canada, United States, United Kingdom",4
+"United States, United Kingdom, Australia",4
+"United States, United Kingdom, France",4
+"South Africa, United States",4
+"Hong Kong, United States",4
+"United Kingdom, United States, Spain, Germany, Greece, Canada",4
+"United States, Bulgaria",4
+"United States, Russia",4
+"United States, Spain",4
+"Italy, United States",4
+"Poland, United States",4
+"Bulgaria, United States",3
+"United States, Ireland",3
+"United Kingdom, Japan, United States",3
+"United States, Chile",3
+"Denmark, United States",3
+"United States, Hong Kong",3
+"United States, South Africa",3
+"United States, Germany, Canada",3
+"United States, United Arab Emirates",3
+"China, Canada, United States",3
+"Sweden, United States",3
+"United States, Colombia",3
+"United States, Sweden",3
+"United Kingdom, United States, Australia",3
+"Pakistan, United States",2
+"United States, Greece",2
+"China, United States",2
+"Hong Kong, China, United States",2
+"Serbia, United States",2
+"United Kingdom, France, Germany, United States",2
+"Thailand, United States",2
+"United Kingdom, India, United States",2
+"Ireland, United Kingdom, United States",2
+"United States, Japan, Canada",2
+"United States, Nigeria",2
+"Turkey, United States",2
+"Norway, Iceland, United States",2
+"Singapore, United States",2
+"Colombia, Mexico, United States",2
+"Czech Republic, United States",2
+"United States, Argentina",2
+"United Arab Emirates, United States",2
+"United States, South Korea, China",2
+"United Kingdom, Germany, United States",2
+"United States, United Kingdom, Canada",2
+"New Zealand, United States",2
+"United States, South Korea",2
+"Canada, United Kingdom, United States",2
+"France, United Kingdom, United States",2
+"United Kingdom, United States, France",2
+"France, Japan, United States",2
+"United States, China, Hong Kong",2
+"United States, Thailand",2
+"Canada, United States, France",2
+"United States, United Kingdom, Germany",2
+"United States, Canada, France",1
+"Canada, United States, United Kingdom, France, Luxembourg",1
+"Ireland, United States, France",1
+"Germany, United States, Canada",1
+"United Kingdom, Germany, Canada, United States",1
+"United States, France, Canada, Lebanon, Qatar",1
+"Netherlands, Belgium, United Kingdom, United States",1
+"France, Belgium, China, United States",1
+"United Arab Emirates, United States, United Kingdom",1
+"United Kingdom, Czech Republic, United States, Germany, Bahamas",1
+"United States, India, Bangladesh",1
+"China, Germany, India, United States",1
+"Germany, France, Luxembourg, United Kingdom, United States",1
+"United States, Israel, Italy, South Africa",1
+"United States, Chile, Israel",1
+"United States, Iceland",1
+"United States, Greece, Brazil",1
+"United States, Australia, Samoa, United Kingdom",1
+"China, United States, Canada",1
+"Canada, United States, Denmark",1
+"Denmark, Sweden, Israel, United States",1
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",1
+"France, United States, Mexico",1
+"Bulgaria, United States, Spain, Canada",1
+"Germany, United States, Hong Kong, Singapore",1
+"United Kingdom, United States, Dominican Republic",1
+"Taiwan, Hong Kong, United States, China",1
+"France, China, Japan, United States",1
+"United States, France, Mexico",1
+"United States, Indonesia",1
+"United States, Nicaragua",1
+"Canada, France, Italy, Morocco, United States",1
+"United States, Canada, Belgium, United Kingdom",1
+"Pakistan, Norway, United States",1
+"United States, France, United Kingdom, Japan",1
+"United States, United Kingdom, Denmark, Sweden",1
+"United States, United Kingdom, Italy",1
+"United States, France, Canada, Spain",1
+"Russia, United States, China",1
+"United States, Canada, Germany",1
+"Ireland, United States",1
+"Germany, United Kingdom, United States",1
+"United Kingdom, Czech Republic, Germany, United States",1
+"United States, Australia, Mexico",1
+"Denmark, France, Belgium, Italy, Netherlands, United States, United Kingdom",1
+"Ireland, United Kingdom, Italy, United States",1
+"United States, Spain, Germany",1
+"China, South Korea, United States",1
+"United States, Italy, United Kingdom, Liechtenstein",1
+"South Africa, United States, New Zealand, Canada",1
+"United Kingdom, Poland, United States",1
+"Canada, Ireland, United States",1
+"United States, Brazil",1
+"United States, Senegal",1
+"Germany, United States, Sweden",1
+"United States, United Kingdom, Canada, Japan",1
+"United States, Cambodia",1
+"United States, India, United Arab Emirates",1
+"United States, Canada, Japan, Panama",1
+"Somalia, Kenya, Sudan, South Africa, United States",1
+"United States, Germany, Mexico",1
+"United States, Australia, South Africa, United Kingdom",1
+"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",1
+"France, Canada, Italy, United States, China",1
+"United Kingdom, Canada, France, United States",1
+"Spain, Canada, United States",1
+"Ireland, Canada, Luxembourg, United States, United Kingdom, Philippines, India",1
+"United States, United Kingdom, Morocco",1
+"United Kingdom, United States, Morocco",1
+"United States, Sweden, Norway",1
+"United Kingdom, China, United States, India",1
+"United States, Greece, United Kingdom",1
+"Austria, United States",1
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",1
+"Germany, Canada, United States",1
+"Ireland, Canada, United States, United Kingdom",1
+"United Kingdom, Australia, Canada, United States",1
+"Germany, United States, Italy",1
+"United Kingdom, France, Spain, United States",1
+"Spain, United States",1
+"United States, France, South Korea, Indonesia",1
+"Egypt, Austria, United States",1
+"United States, East Germany, West Germany",1
+"Canada, India, Thailand, United States, United Arab Emirates",1
+"Germany, United States, United Kingdom, Canada",1
+"Peru, United States, United Kingdom",1
+"United States, Brazil, India, Uganda, China",1
+"Switzerland, United Kingdom, United States",1
+"Canada, United States, India, United Kingdom",1
+"United Kingdom, Namibia, South Africa, Zimbabwe, United States",1
+"United Kingdom, China, United States",1
+"United Kingdom, United States, Czech Republic",1
+"United States, Venezuela",1
+"United States, Czech Republic, United Kingdom",1
+"United States, Canada, China",1
+"United States, Botswana",1
+"United States, New Zealand, Japan",1
+"United States, Germany, Australia",1
+"Ireland, Canada, United Kingdom, United States",1
+"United States, Uruguay",1
+"Germany, France, United States, Canada, United Kingdom",1
+"United Kingdom, United States, Canada",1
+"United States, Morocco",1
+"United States, Netherlands, Japan, France",1
+"Portugal, France, Poland, United States",1
+"France, Canada, United States",1
+"Colombia, United States",1
+"Canada, United States, Germany",1
+"Denmark, France, United States, Sweden",1
+"Brazil, India, China, United States",1
+"France, Switzerland, Spain, United States, United Arab Emirates",1
+"United States, India, South Korea, China",1
+"Chile, Argentina, France, Spain, United States",1
+"United States, United Kingdom, Spain, South Korea",1
+"Italy, South Africa, West Germany, Australia, United States",1
+"United States, Ghana, Burkina Faso, United Kingdom, Germany, Ethiopia",1
+"United States, Germany, United Kingdom, Australia",1
+"Finland, United States",1
+"United States, New Zealand, United Kingdom",1
+"United States, Germany, United Kingdom, Italy",1
+"United States, Germany, United Kingdom",1
+"Argentina, France, United States, Germany, Qatar",1
+"United States, Kazakhstan",1
+"United Kingdom, France, Canada, Belgium, United States",1
+"France, United States, Canada",1
+"Australia, United Kingdom, United States, New Zealand, Italy, France",1
+"Jamaica, United States",1
+"China, Hong Kong, United States",1
+"Thailand, Canada, United States",1
+"Germany, United States, France",1
+"Switzerland, United States",1
+"Canada, France, United States",1
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",1
+"United States, Canada, Indonesia, United Kingdom, China, Singapore",1
+"United States, United Kingdom, Germany, Hungary",1
+"United States, United Kingdom, Canada, China",1
+"United States, France, Canada",1
+"Canada, South Korea, United States",1
+"Spain, France, Canada, United States",1
+"Switzerland, France, Belgium, United States",1
+"China, Spain, South Korea, United States",1
+"United States, Canada, United Kingdom",1
+"United States, Philippines",1
+"Romania, United States",1
+"United States, Belgium, Canada, France",1
+"Hong Kong, Iceland, United States",1
+"Australia, New Zealand, United States",1
+"United States, France, Canada, Belgium",1
+"United Kingdom, France, United States, Belgium, Luxembourg, China, Germany",1
+"United States, United Kingdom, India",1
+"United States, Mexico, Spain, Malta",1
+"Saudi Arabia, Netherlands, Germany, Jordan, United Arab Emirates, United States",1
+"Spain, Thailand, United States",1
+"United Kingdom, France, Belgium, Canada, United States",1
+"France, South Korea, Japan, United States",1
+"Kenya, United States",1
+"United States, Norway, Canada",1
+"United Kingdom, France, Belgium, Ireland, United States",1
+"France, Malta, United States",1
+"United Kingdom, United States, Ireland",1
+"New Zealand, Australia, France, United States",1
+"United Kingdom, Germany, United States, France",1
+"United States, United Kingdom, Japan",1
+"Puerto Rico, United States, Colombia",1
+"France, Belgium, United States",1
+"United Kingdom, United States, Japan",1
+"United States, Mexico, Colombia",1
+"India, United Kingdom, China, Canada, Japan, South Korea, United States",1
+"Lebanon, United States, United Arab Emirates",1
+"United States, China, Colombia",1
+"United States, United Kingdom, France, Germany, Japan",1
+"United Kingdom, France, Poland, Germany, United States",1
+"Spain, Belgium, United States",1
+"United States, Cambodia, Romania",1
+"United Kingdom, Australia, France, United States",1
+"United States, India, United Kingdom",1
+"Russia, United States",1
+"Ireland, Switzerland, United Kingdom, France, United States",1
+"United States, Singapore",1
+"Portugal, United States",1
+"United States, China, United Kingdom",1
+"United States, Brazil, Japan, Spain, India",1
+"Czech Republic, United Kingdom, United States",1
+"Canada, United States, Mexico",1
+"France, United States, United Kingdom, Canada",1
+"Canada, Nigeria, United States",1
+"United States, Italy, France, Japan",1
+"United States, Italy, Romania, United Kingdom",1
+"United States, France, Denmark",1
+"United States, France, Serbia",1
+"Denmark, Singapore, Canada, United States",1
+"Japan, Canada, United States",1
+"Canada, United States, Ireland",1
+"United States, China, Canada",1
+"United States, Malta, France, United Kingdom",1
+"United States, Ireland, United Kingdom, India",1
+"Ireland, France, Iceland, United States, Mexico, Belgium, United Kingdom, Hong Kong",1
+"United Kingdom, Spain, United States",1
+"Philippines, Canada, United Kingdom, United States",1
+"United Kingdom, Finland, Germany, United States, Australia, Japan, France, Ireland",1
+"United Kingdom, Germany, France, United States",1
+"Canada, Hungary, United States",1
+"Canada, United States, Cayman Islands",1
+"Hungary, United States",1
+"United States, India, France",1
+"Spain, France, United States",1
+"United States, France, Italy, United Kingdom",1
+"South Korea, China, United States",1
+"United Kingdom, Italy, Israel, Peru, United States",1
+"United States, Colombia, Mexico",1
+"Ireland, United States, United Kingdom",1
+"United States, Denmark",1
+"Cambodia, United States",1
+"Greece, United States",1
+"France, Canada, United States, Spain",1
+"United Kingdom, France, Belgium, United States",1
+"United Kingdom, Spain, United States, Germany",1
+"United Kingdom, South Africa, Australia, United States",1
+"Kuwait, United States",1
+"Italy, United States, Argentina",1
+"United Kingdom, Canada, United States, Germany",1
+"Canada, Japan, United States",1
+"United Kingdom, France, United States, Belgium",1
+"Netherlands, United States",1
+"United States, Canada, Ireland",1
+"United States, Hungary, Ireland, Canada",1
+"United Kingdom, United States, France, Germany",1
+"United Kingdom, United States, France, Italy",1
+"United Kingdom, Germany, Spain, United States",1
+"South Africa, China, United States",1
+"United States, France, United Kingdom",1
+"United Kingdom, Egypt, United States",1
+"United States, Bermuda, Ecuador",1
+"United States, Australia, China",1
+"Norway, United States",1
+"United Kingdom, Ukraine, United States",1
+"Chile, United States, France",1
+"United Kingdom, Australia, United States",1
+"United States, Hungary",1
+"South Africa, United States, Germany",1
+"Hong Kong, Canada, United States",1
+"China, United States, Australia",1
+"Spain, Germany, Denmark, United States",1
+"United States, South Korea, Japan",1
+"Thailand, China, United States",1
+"Taiwan, China, France, United States",1
+"Spain, France, United Kingdom, United States",1
+"Brazil, United States",1
+"Spain, United Kingdom, United States",1
+"France, Belgium, Luxembourg, Romania, Canada, United States",1
+"Argentina, United States, Mexico",1
+"France, Israel, Germany, United States, United Kingdom",1
+"Mexico, United States, Spain, Colombia",1
+"Philippines, United States",1
+"India, United Kingdom, Canada, United States",1
+"United Kingdom, United States, Germany, Denmark, Belgium, Japan",1
+"United States, Poland",1
+"South Korea, Canada, United States, China",1
+"Argentina, United States",1
+"Ghana, United States",1
+"France, Luxembourg, United States",1
+"United States, Israel, United Kingdom, Canada",1
+"China, United States, United Kingdom",1
+"United States, Switzerland",1
+"South Africa, United States, Japan",1
+"United States, Brazil, South Korea, Mexico, Japan, Germany",1
+"Belgium, United Kingdom, United States",1
+"United States,",1
+"Indonesia, United States",1
+"United States, Taiwan",1
+"United Kingdom, Canada, United States, Cayman Islands",1
+"France, Iran, United States",1
+"Canada, Germany, France, United States",1
+"United Kingdom, Ireland, United States",1
+"United Kingdom, Russia, United States",1
+"Austria, Iraq, United States",1
+"United States, United Kingdom, New Zealand",1
