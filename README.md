@@ -9,7 +9,7 @@ Create a conda environment:
 ### 0. Ask QUestions
 1. which movie has the highest country viewing/releases - Done
 2. How do the variables correlate? - done
-3. Which countries have contributed most movies in recent years?
+3. Which countries have contributed most movies in recent years? - visualisation(Done)
 4. Which actors are most likely to work together?
 5. what is the content release at netflix like ? - done
 6. what type of content have they been focussing on over the years?
