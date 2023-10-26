@@ -7,11 +7,11 @@ Create a conda environment:
  pip install --upgrade seaborn matplotlib
 
 ### 0. Ask QUestions
-1. which movie has the highest country viewing/releases
-2. How do the variables correlate?
+1. which movie has the highest country viewing/releases - Done
+2. How do the variables correlate? - done
 3. Which countries have contributed most movies in recent years?
 4. Which actors are most likely to work together?
-5. what is the content release at netflix like ?
+5. what is the content release at netflix like ? - done
 6. what type of content have they been focussing on over the years?
 7. what type of content is added over months like holiday season (december , july, january) and the quantity of released content over the months
 8. what is the distribution of Netflix’s content by origin, or country
