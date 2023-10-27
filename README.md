@@ -8,13 +8,8 @@ Create a conda environment:
 
 ### 0. Ask QUestions
 1. which movie has the highest country viewing/releases - Done
-2. How do the variables correlate? - done
-3. Which countries have contributed most movies in recent years? - visualisation(Done)
 4. Which actors are most likely to work together?
-5. what is the content release at netflix like ? - done
-6. what type of content have they been focussing on over the years?
 7. what type of content is added over months like holiday season (december , july, january) and the quantity of released content over the months
-8. what is the distribution of Netflix’s content by origin, or country
 9. which countries have the largest quantity of released content , group this by content type
 10. visualise the type of content produced by countries 
 11. explore the “Age” of content on Netflix, which means the gap between when movies/shows are released and when they are added.
@@ -23,10 +18,20 @@ Create a conda environment:
 14. Visualise 13 based on countries 
 15. Movie and TV Show Genres, quantity of content released (in the genre)
 16. group 15 based on type(content)
-17. Movie and TV Show Duration
 18. Netflix Titles
 19. Netflix Description
 
+Data cleaning
+
+Data Exploration
+1. How do the variables correlate? 
+2. what type of content have they been focussing on over the years?
+3. Movie and TV Show Duration
+Data Visualisation
+1. Which countries have contributed most movies in recent years?
+2. what is the content release at netflix like ?
+3. what is the distribution of Netflix’s content by origin, or country ?
+4. what type of content have they been focussing on over the years? 
 ### 1.Data collection
 
 ### 2.Data cleaning and processing
