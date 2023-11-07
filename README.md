@@ -1,4 +1,6 @@
 ## NETFLIX MOVIE DATA ANALYSIS PROJECT
+Netflix Movies and TV Shows project dataset is from this link - https://www.kaggle.com/datasets/shivamb/netflix-shows
+
 Create a conda environment:
  conda create --name netflix
  conda activate netflix 
@@ -74,3 +76,5 @@ After downloading the dataset, I load the dataset into a dataframe for the data 
 7. https://www.nomidl.com/python/netflix-data-analysis-project-using-python/
 8. https://github.com/nataliafonseca/netflix-data-analysis/blob/main/notebook.ipynb 
 9. https://app.datacamp.com/workspace/w/cc0a1d5f-0b59-4555-bc66-87d9dd3d5e96 ***
+10. https://medium.com/@linhvu.nt/data-analysis-and-recommendations-on-netflix-content-28707163553a ***
+11. https://jovian.com/astha1998/netflix-data-analysis-project 
