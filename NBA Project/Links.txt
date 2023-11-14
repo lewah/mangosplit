@@ -1,0 +1,13 @@
+The NBA's regular season runs from October to April, with each team playing 82 games.
+
+https://www.youtube.com/playlist?list=PLcMTJaWFVpCZCKYvNX1Di79XDd7J-qTeX - youtube
+https://github.com/dataquestio/project-walkthroughs/blob/master/nba_games/get_data.ipynb - github(dataquestio)
+https://www.basketball-reference.com/leagues/NBA_2021_games.html - Basketball reference site
+API-NBA (2.2.5) , https://api-sports.io/documentation/nba/v2
+https://www.codebasketball.com/learn/
+https://www.codebasketball.com/learn/part1/ 
+https://medium.com/@jleuschen17/nba-datavisualuzation-in-python-1b6b75e301d4
+https://medium.com/@jleuschen17/building-an-automatic-nba-stat-scraper-with-beautifulsoup-in-python-45fddd29fa70 
+https://towardsdatascience.com/tagged/nba
+https://wjchuahhh.medium.com/nba-stats-2016-2021-data-analyst-project-e185d3f42fc3 
+https://www.analyticsvidhya.com/blog/2019/05/scraping-nba-data-analyze-1000-basketball-games-python/ - Extracting and Analyzing 1000 Basketball Games using Pandas and Chartify
