@@ -6,10 +6,13 @@ Azure Data Studio + Docker was used to import excel file to create a working dat
 Python:
 conda activate dev2
 pip install ipykernel - to solve environment errors
-packages installed: pandas, 
+packages installed: 
+pandas, 
+conda install -c anaconda openpyxl
 
 Data Cleaning process
 1. Delete rows if records location Africa from date 03/01/2020 to 08/01/2021, no relevant information there 
+2. Asia	Afghanistan	from 03/01/2020 to 28/01/2022
 
 Skills used in SQL are:
 * Joins
