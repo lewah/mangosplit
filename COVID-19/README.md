@@ -23,6 +23,11 @@ Tasks
 4. Countries with Highest Death Count per Population
 5. Showing contintents with the highest death count per population
 
+Which country started vaccinating its citizens first?
+Which country has the highest vaccinated people?
+What are the different categories of vaccines offered?
+Which vaccine is used by various countries?
+
 SQL:
 
 Column 'continent' does not allow DBNull.Value.  -  change to allows nulls
