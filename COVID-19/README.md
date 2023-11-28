@@ -53,3 +53,5 @@ Skills used in SQL are:
 * Converting Data Types
 
 PYTHON:
+1. import data through pandas
+2. data exploration: checking the shape of data frame, check for missing values/Null
