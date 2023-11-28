@@ -14,14 +14,7 @@ Data Cleaning process
 1. Delete rows if records location Africa from date 03/01/2020 to 08/01/2021, no relevant information there 
 2. Asia	Afghanistan	from 03/01/2020 to 28/01/2022
 
-Skills used in SQL are:
-* Joins
-* CTE's
-* Temp Tables
-* Windows Functions
-* Aggregate Functions
-* Creating Views
-* Converting Data Types
+
 
 Tasks
 1. Shows likelihood of people dying if you contract covid in their country(Kenya)
@@ -31,6 +24,7 @@ Tasks
 5. Showing contintents with the highest death count per population
 
 SQL:
+
 Column 'continent' does not allow DBNull.Value.  -  change to allows nulls
 Column 'new_cases' does not allow DBNull.Value
 Column 'new_cases_per_million' does not allow DBNull.Value
@@ -48,3 +42,14 @@ Column 24 [weekly_hosp_admissions] The given value '34' of type String from the 
 Column 25 [weekly_hosp_admissions_per_million] The given value '2.917' of type String from the data source cannot be converted to type nvarchar 
 Column 22 [weekly_icu_admissions] The given value '195' of type String from the data source cannot be converted to type nvarchar 
 Column 23 [weekly_icu_admissions_per_million] The given value '9.947' of type String from the data source cannot be converted to type nvarchar
+
+Skills used in SQL are:
+* Joins
+* CTE's
+* Temp Tables
+* Windows Functions
+* Aggregate Functions
+* Creating Views
+* Converting Data Types
+
+PYTHON:
