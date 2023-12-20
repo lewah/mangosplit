@@ -2,7 +2,8 @@
 Datasets are from this link - https://ourworldindata.org/covid-deaths  and this linkhttps://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx 
 
 dataset_1 from https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress/?select=country_vaccinations_by_manufacturer.csv 
-
+dataset_2 is used in the file  [Title](step1.ipynb)
+[Title](cleaned_vac_data.csv) is used in the file [Title](step2.ipynb) and [Title](step3.ipynb)
 
 ### Fields in the dataset
 
@@ -25,13 +26,17 @@ Vaccines used in the country - total number of vaccines used in the country (up 
 conda activate dev2
 pip install ipykernel - to solve environment errors
 packages installed: 
-pandas, 
+* pandas
+* matplotlib
+* seaborn
 conda install -c anaconda openpyxl
 
 Process
 
 1. import data through pandas
 2. data exploration: checking the shape of data frame, check for missing values/Null
+3. split the dataset into 2 separating data grouped by continents and data grouped by countries; [Title](continents_data.csv) and [Title](countries_data.csv)
+4. Cleaning the [Title](countries_data.csv) dataset by dropping columns that arent in use and filling in missing values
 
 TASKS:
 Deaths
@@ -49,6 +54,12 @@ Vaccination
 2. Which country has the highest vaccinated people?
 3. What are the different categories of vaccines offered?
 4. Which vaccine is used by various countries?
+
+Total popluation that is vaccinated in the world .
+Top 30 countries with highest vaccination count
+Top 30 countries that are vaccinated per hundered?(This will differ as few countries are less populated)
+Top 30 countries vaccine comparision between December ,January and February.
+Most popluar Vaccine in Individual countries?
 
 ## SQL
 
