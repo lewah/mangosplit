@@ -10,6 +10,8 @@ seaborn
 matplotlib - conda install -c conda-forge matplotlib
 pip install google-api-python-client
 pip install isodate
+pip install --user -U nltk
+pip install --user -U numpy
 
 
 We Will be focusing on three modules
