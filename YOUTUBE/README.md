@@ -18,3 +18,12 @@ We Will be focusing on three modules
 1. channel
 2. Playlistitems
 3. videos
+
+Links
+
+https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset/data - Dataset
+
+Examples:
+https://github.com/thu-vu92/youtube-api-analysis/blob/main/starter.ipynb
+https://www.kaggle.com/code/michael0716/youtube-data-us-analysis
+https://www.kaggle.com/code/prashanta221014136/youtube-trending-video-analysis-prediction 
