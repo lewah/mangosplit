@@ -3,6 +3,7 @@ conda create --name youtube
 env location - /Users/<username>/opt/anaconda3/envs/youtube
 Activate - conda activate youtube
 Deactivate - conda deactivate
+conda env list - list of conda env
 
 Packages installed
 pandas
@@ -12,6 +13,8 @@ pip install google-api-python-client
 pip install isodate
 pip install --user -U nltk
 pip install --user -U numpy
+pip install google-search-results
+
 
 
 We Will be focusing on three modules
